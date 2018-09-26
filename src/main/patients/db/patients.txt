@@ -1,0 +1,8 @@
+Michael;Jackson;OTHER;123;f14e9dde-27d2-4770-bf6b-2465e389ab52
+Johnny;Cash;MALE;123;9e1851e6-9bad-4b60-b36a-ab504deeda22
+Ch;Er;OTHER;532;f55d902a-0f2c-42f0-9659-112cd914c94e
+Freddy;Mercury;OTHER;5425;63d4bf75-de0a-409b-b2a4-4e697b5b2cb8
+Michael;Jackson;OTHER;123;cbd557b6-0013-4caa-90db-ffd24a25fbd0
+George;Michael;OTHER;2131;d69cb0f9-8bb5-41a7-8d5a-fc5b2f81fc58
+George;Michael2;OTHER;2131;d69cb0f9-8bb5-41a7-8d5a-fc5b2f81fc57
+Johnny;Cash;OTHER;123;771849ab-15e7-41d1-b854-7ec3f5d9590e
