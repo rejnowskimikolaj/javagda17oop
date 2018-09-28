@@ -1,8 +1,13 @@
 Michael;Jackson;OTHER;123;f14e9dde-27d2-4770-bf6b-2465e389ab52
-Johnny;Cash;MALE;123;9e1851e6-9bad-4b60-b36a-ab504deeda22
+Johnny;Cash;OTHER;123;9e1851e6-9bad-4b60-b36a-ab504deeda22
 Ch;Er;OTHER;532;f55d902a-0f2c-42f0-9659-112cd914c94e
+Cher;ButQuicker;FEMALE;532;e8a01c8c-a83b-4f6a-9798-375cc7377b3d
 Freddy;Mercury;OTHER;5425;63d4bf75-de0a-409b-b2a4-4e697b5b2cb8
+George;Michael;MALE;2131;2a3c00bb-b706-4a77-bfc4-60f85f0b873d
+Freddy;Mercury;MALE;5425;5614e0f6-ffe6-43e8-b165-1af8c497a336
 Michael;Jackson;OTHER;123;cbd557b6-0013-4caa-90db-ffd24a25fbd0
 George;Michael;OTHER;2131;d69cb0f9-8bb5-41a7-8d5a-fc5b2f81fc58
 George;Michael2;OTHER;2131;d69cb0f9-8bb5-41a7-8d5a-fc5b2f81fc57
+Ch;Er;FEMALE;532;eed05dec-c638-4c48-882f-ee858c90278a
+Johnny;Cash;MALE;123;a816f3b9-42dd-4aae-836c-9da9b2025ab1
 Johnny;Cash;OTHER;123;771849ab-15e7-41d1-b854-7ec3f5d9590e

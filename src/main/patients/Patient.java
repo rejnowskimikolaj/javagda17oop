@@ -56,6 +56,7 @@ public class Patient {
                 ", lastName='" + lastName + '\'' +
                 ", id='" + id + '\'' +
                 ", gender=" + gender +
+                ", phoneNumber=" + phoneNumber +
                 '}';
     }
 
